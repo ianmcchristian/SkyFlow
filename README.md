@@ -1,5 +1,7 @@
 # SkyFlow Lite
 
+![SkyFlow Banner](assets/banner.png)
+
 SkyFlow Lite is a "Digital Twin" project that simulates an airport traffic control system using a modern microservices architecture.
 
 ## Technology Stack
