@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Build
+target/
+build/
+node_modules/
+dist/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Secrets
+.env
